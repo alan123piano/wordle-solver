@@ -2,8 +2,8 @@
 
 This wordle solver uses a straightforward strategy: maintain a set of possible answers,
 try to make a guess that would provide the most information given the current set of possible answers, 
-and repeat until the set only has one word in it. I made this as a challenge with a friend to see
-who could make the best wordle solver before having watched 3Blue1Brown's video on this subject.
+and repeat until the set only has one word in it. I made this as a challenge with a friend back in February 2022
+to see who could make the best wordle solver before having watched 3Blue1Brown's video on this subject.
 
 ### Flaws
 
