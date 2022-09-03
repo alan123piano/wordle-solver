@@ -12,3 +12,6 @@ have memorized)
 close to getting the word. For example, if the first 4 letters are "STEA_", it will successively
 guess "STEAK", "STEAL", "STEAM", etc.; a more optimal strategy would guess a word such as "milky",
 which would in a single step provide information on the presence of K, L, or M.
+
+![image](https://user-images.githubusercontent.com/58316591/188274523-eb9ff10f-dc70-4014-b5f3-b81e1443cf04.png)
+
